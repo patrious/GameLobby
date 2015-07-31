@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLobbyManager", "GameLobbyManager\GameLobbyManager.csproj", "{E7AD8493-9996-4948-9B43-B17CA499D22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLobby", "GameLobby\GameLobby.csproj", "{0602B327-C6CA-48E2-9B7D-3F00B48FFEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLobbyTests", "GameLobbyTests\GameLobbyTests.csproj", "{45093C49-02BD-47DA-96BB-8F86AD16BC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AD8493-9996-4948-9B43-B17CA499D22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7AD8493-9996-4948-9B43-B17CA499D22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7AD8493-9996-4948-9B43-B17CA499D22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7AD8493-9996-4948-9B43-B17CA499D22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0602B327-C6CA-48E2-9B7D-3F00B48FFEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0602B327-C6CA-48E2-9B7D-3F00B48FFEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0602B327-C6CA-48E2-9B7D-3F00B48FFEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0602B327-C6CA-48E2-9B7D-3F00B48FFEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45093C49-02BD-47DA-96BB-8F86AD16BC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45093C49-02BD-47DA-96BB-8F86AD16BC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45093C49-02BD-47DA-96BB-8F86AD16BC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45093C49-02BD-47DA-96BB-8F86AD16BC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
